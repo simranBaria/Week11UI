@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 47736b4090514f344aa2f34a689c5e9e
+guid: 45e6e136ee0e6c041bbd23d13858159d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1955448553306655712
-    second: Background_0
+      213: 5247122430571010718
+    second: Box_Forest_BDSP_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Background_0
+      name: Box_Forest_BDSP_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 3840
-        height: 2160
+        width: 595
+        height: 505
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 024fa93b6e9dcd4e0800000000000000
-      internalID: -1955448553306655712
+      spriteID: e9a5b27dc0681d840800000000000000
+      internalID: 5247122430571010718
       vertices: []
       indices: 
       edges: []
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Background_0: -1955448553306655712
+      Box_Forest_BDSP_0: 5247122430571010718
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
