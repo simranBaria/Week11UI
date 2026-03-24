@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{f803b53e-4c28-44ef-9977-e9861c4e338e}">
+		<property name="assetPath">
+			<value>snivy.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.74399999999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b71d3390-43c2-4302-9ed2-0bfa4a91e4cb}</destination>
+		</relationship>
+	</object>
+</objects>
